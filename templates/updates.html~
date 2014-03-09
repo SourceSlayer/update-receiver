@@ -1,0 +1,17 @@
+<!doctype HTML>
+<html>
+<head>
+<title>Updates!</title>
+<link rel="stylesheet" type="text/css" src="/static/update-page.css" />
+</head>
+<body>
+<div id="master">
+<div id="chat-updates">
+This is where chat text goes
+</div>
+<div id="feed-updates">
+This is not where chat text goes.
+</div>
+</div>
+</body>
+</html>

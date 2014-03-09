@@ -1,0 +1,18 @@
+/*#master{
+	background:purple;
+	margin:0 auto;
+	overflow:auto;
+	width:100%;
+}*/
+/*#chat-updates{ Live chat feature via IRC will be added later.
+	background:gray;
+	border:1px;
+	float:left;
+	width:30%;
+	resize:horizontal;
+}*/
+#feed-updates{
+	float:left;
+	resize:horizontal;
+	width:70%;
+}

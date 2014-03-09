@@ -1,0 +1,9 @@
+{
+	"version":1.2,
+	"style":{
+		"css":	
+			"display":true, "comment":"This value will show what to do display, \"both\" for both. It is the choice between displaying the feed",
+		}
+		
+	}
+}
